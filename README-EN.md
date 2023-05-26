@@ -14,7 +14,7 @@ This algorithm was created as an example to help someone interested in combining
 
 5. It creates a new list called `elementosRestantes` (remaining elements) that contains all the elements from `elementos` except the first one.
 
-6. The function recursively calls itself with `tamanhoCombinacao-1` (since we are looking for combinations with one less element) and `elementosRestantes`.
+6. The function recursively calls itself with `tamanhoCombinacao - 1` (since we are looking for combinations with one less element) and `elementosRestantes`.
 
 7. The variable `combinacoes1` (combinations1) receives the result of the recursive call.
 

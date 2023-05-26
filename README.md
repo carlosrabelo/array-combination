@@ -14,7 +14,7 @@ Este algoritmo foi criado como um exemplo para auxiliar uma pessoa interessada e
 
 5. Em seguida, cria uma nova lista `restoElementos` contendo todos os elementos de `elementos` a partir do segundo elemento.
 
-6. Chama recursivamente a função `combinacoesDe` passando `tamanhoComb-1` (pois estamos buscando combinações com um elemento a menos) e `restoElementos`.
+6. Chama recursivamente a função `combinacoesDe` passando `tamanhoComb - 1` (pois estamos buscando combinações com um elemento a menos) e `restoElementos`.
 
 7. A variável `combinacoes1` recebe o resultado da chamada recursiva.
 
