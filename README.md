@@ -1,5 +1,7 @@
 # Algoritmo de Combinações em Go
 
+Este algoritmo foi criado como um exemplo para auxiliar uma pessoa interessada em combinar uma lista de elementos em matrizes menores. A função combinacoesDe implementa a lógica necessária para gerar todas as combinações possíveis, de acordo com os parâmetros fornecidos. A seguir, detalhamos o funcionamento do algoritmo:
+
 1. A função `combinacoesDe` recebe dois parâmetros: `tamanhoComb` e `elementos`. `tamanhoComb` representa o número de elementos desejados em cada combinação, e `elementos` é a lista de entrada.
 
 2. Primeiro, a função verifica duas condições de parada:
